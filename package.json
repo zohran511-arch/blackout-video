@@ -1,0 +1,8 @@
+{
+  "name": "blackout-video",
+  "version": "1.0.0",
+  "main": "mon-serveur.js",
+  "scripts": {
+    "start": "node mon-serveur.js"
+  }
+}
